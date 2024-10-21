@@ -7,9 +7,6 @@ A MATLAB-based app for real-time 3D scene reconstruction from interior image seq
 - [Description](#description)
 - [Requirements](#requirements)
 - [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 

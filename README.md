@@ -1,8 +1,6 @@
-# Computer Vision Challenge (Group 29)
+# Computer Vision Challenge
 Eric Christfreund, Mustafë Dobra, Emre Faik Gökçe, Zeineb Haouari, Niklas Schlüter
-
-Welcome to the repository for the Computer Vision Challenge SS2023. This challenge focuses on creating a 3D model of a room using a set of input images.
-
+A MATLAB-based app developed for real-time 3D scene reconstruction from interior image sequences using geometric computer vision algorithms (group project as part of of  EI70110 challenge)
 ## Table of Contents
 
 - [Description](#description)

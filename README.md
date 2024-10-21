@@ -1,9 +1,8 @@
-# Computer Vision Challenge
-
-### Team: 
-*Eric Christfreund, Mustafë Dobra, Emre Faik Gökçe, Zeineb Haouari, Niklas Schlüter*
+# 3D Scene Reconstruction
 
 A MATLAB-based app developed for real-time 3D scene reconstruction from interior image sequences using geometric computer vision algorithms (group project as part of the EI70110 challenge).
+### Team: *Eric Christfreund, Mustafë Dobra, Emre Faik Gökçe, Zeineb Haouari, Niklas Schlüter*
+
 
 ## Table of Contents
 

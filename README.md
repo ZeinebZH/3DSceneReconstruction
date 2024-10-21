@@ -1,6 +1,6 @@
 # 3D Scene Reconstruction
 
-A MATLAB-based app for real-time 3D scene reconstruction from interior image sequences using geometric computer vision algorithms (group project for the EI70110 challenge).
+A MATLAB-based app for real-time 3D scene reconstruction from interior image sequences using geometric computer vision algorithms (group project for the EI70110 challenge, SS23 Edition).
 
 ## Table of Contents
 
